@@ -10,7 +10,7 @@ The example uses [Aurelia CLI](http://aurelia.io/docs/build-systems/aurelia-cli/
 
 To run the app, follow these steps.
 
-1. Ensure that [NodeJS](http://nodejs.org/) is installed. This provides the platform on which the build tools runs.
+1. Ensure that [NodeJS](http://nodejs.org/) is installed.
 2. From the project folder, execute the following command:
 
   ```shell
