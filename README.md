@@ -1,10 +1,10 @@
 # aurelia-todo-example
 
->This is a working version of the Aurelia ToDo tutorial which you can find [here](http://aurelia.io/docs/tutorials/creating-a-todo-app/).
+This is a working version of the Aurelia ToDo tutorial which you can find [here](http://aurelia.io/docs/tutorials/creating-a-todo-app/).
 
->The tutorial as it stands today (2019-04-17) does not seem to work.  There is an accompanying Introduction to Aurelia video on the aurelia.io home page that shows how to build the same thing, but even that has minor issues.  This repo works through the minor issues and is a good starting point for someone who is trying to get the ToDo app to work.
+The tutorial as it stands today (2019-04-17) does not seem to work.  There is an accompanying Introduction to Aurelia video on the aurelia.io home page that shows how to build the same thing, but even that has minor issues.  This repo works through the minor issues and is a good starting point for someone who is trying to get the ToDo app to work.
 
->The example uses [Aurelia CLI](http://aurelia.io/docs/build-systems/aurelia-cli/).
+The example uses [Aurelia CLI](http://aurelia.io/docs/build-systems/aurelia-cli/).
 
 ## Running The App
 
