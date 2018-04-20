@@ -10,16 +10,25 @@ The example uses [Aurelia CLI](http://aurelia.io/docs/build-systems/aurelia-cli/
 
 To run the app, follow these steps.
 
-1. Ensure that [NodeJS](http://nodejs.org/) is installed.
-2. From the project folder, execute the following command:
+1. Ensure that [NodeJS](http://nodejs.org/) is installed.  Make sure you have a Git client installed too.
+
+2. Make sure you have the Aurelia CLI installed.  Use the following command to do so:
+
+  ```shell
+  npm install -g aurelia-cli
+  ```
+  
+3. From the project folder, execute the following command:
 
   ```shell
   npm install
   ```
-3. Next run this command:
+  
+4. Next run this command:
 
   ```shell
   au run --watch
   ```
+  
 Note: use Ctrl-C to exit au run --watch 
   
